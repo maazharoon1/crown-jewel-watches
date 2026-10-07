@@ -1,0 +1,6 @@
+{
+  "name": "Crown Jewel Watches",
+  "description": "A curated collection of exceptional timepieces defined by precision, craftsmanship, and timeless design.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
